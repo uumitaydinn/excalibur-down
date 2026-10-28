@@ -94,6 +94,10 @@ Bildirimdeki hata metninin ekran görüntüsünü ve paylaştığınız bağlant
 
 Hata bildirimi ve istekler için uygulamadaki **✈ Geri Bildirim** düğmesini kullanın ya da Telegram'dan yazın: **[@aaydinnaydinn](https://t.me/aaydinnaydinn)**
 
+### 🔒 Gizlilik
+
+Uygulama günde en fazla bir kez **anonim** bir kullanım sinyali gönderir: uygulama adı, sürüm ve cihazda rastgele üretilen bir kimlik. Ad, e-posta, telefon numarası, konum veya indirdiğiniz içerikler **toplanmaz**. Instagram oturum bilgileri yalnızca cihazınızda saklanır.
+
 ### ⚖️ Yasal uyarı
 
 Excalibur-Down yalnızca kişisel kullanım içindir. Yalnızca indirme hakkına sahip olduğunuz içerikleri indirin ve ilgili platformların kullanım koşullarına uyun. Excalibur-Down; YouTube, Instagram, TikTok, X, Reddit veya Facebook ile bağlantılı değildir ve bu şirketler tarafından onaylanmamıştır.
@@ -174,6 +178,10 @@ Send a screenshot of the error in the notification, together with the link you s
 ### 💬 Feedback
 
 For bug reports and requests, use the **✈ Feedback** button in the app or message on Telegram: **[@aaydinnaydinn](https://t.me/aaydinnaydinn)**
+
+### 🔒 Privacy
+
+At most once a day the app sends an **anonymous** usage signal: the app name, its version and a random ID generated on the device. Your name, email, phone number, location and the content you download are **not** collected. Instagram session data stays on your device only.
 
 ### ⚖️ Disclaimer
 
