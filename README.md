@@ -17,6 +17,10 @@
 
 </div>
 
+### 🎬 Tanıtım videosu · Promo video
+
+https://github.com/user-attachments/assets/46cab059-d7f6-4916-aea6-fe7f5e7eb948
+
 ---
 
 ## 🇹🇷 Türkçe
