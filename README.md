@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Excalibur-Down" width="160"/>
+<img src="assets/logo.png" alt="Excalibur-Down+" width="160"/>
 
-# Excalibur-Down
+# Excalibur-Down+
 
 **Tüm sosyal medya video indiricisi · All-in-one social video downloader**
 
@@ -11,7 +11,7 @@
 ![Android](https://img.shields.io/badge/Android-8.0%2B-3ddc84?logo=android&logoColor=white)
 ![Languages](https://img.shields.io/badge/dil%20%2F%20lang-TR%20%7C%20EN-orange)
 
-### [⬇️ APK İndir / Download APK](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down.apk)
+### [⬇️ APK İndir / Download APK](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down-Plus.apk)
 
 [🇹🇷 Türkçe](#-türkçe) · [🇬🇧 English](#-english)
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/46cab059-d7f6-4916-aea6-fe7f5e7eb948
 
 ## 🇹🇷 Türkçe
 
-Excalibur-Down; YouTube, Instagram, TikTok, X (Twitter), Reddit ve Facebook'taki videoları, fotoğrafları ve GIF'leri telefonunuza kaydetmenin en kısa yoludur. Uygulamayı açmanıza bile gerek yok: herhangi bir uygulamada **Paylaş → Excalibur-Down**'a dokunun, kaliteyi seçin, indirme başlasın.
+Excalibur-Down+; YouTube, Instagram, TikTok, X (Twitter), Reddit ve Facebook'taki videoları, fotoğrafları ve GIF'leri telefonunuza kaydetmenin en kısa yoludur. Uygulamayı açmanıza bile gerek yok: herhangi bir uygulamada **Paylaş → Excalibur-Down+**'a dokunun, kaliteyi seçin, indirme başlasın.
 
 <p align="center">
   <img src="assets/tr_main.png" width="270" alt="Ana ekran"/>
@@ -60,15 +60,15 @@ Excalibur-Down; YouTube, Instagram, TikTok, X (Twitter), Reddit ve Facebook'taki
 
 ### 📲 Kurulum
 
-1. Bu sayfadaki **[APK İndir](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down.apk)** bağlantısına dokunun.
-2. İndirilen `Excalibur-Down.apk` dosyasını açın.
+1. Bu sayfadaki **[APK İndir](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down-Plus.apk)** bağlantısına dokunun.
+2. İndirilen `Excalibur-Down-Plus.apk` dosyasını açın.
 3. Android sorarsa **"Bu kaynaktan yüklemeye izin ver"** seçeneğini açın ve **Yükle**'ye dokunun.
 
 > **1.1.0'dan önceki bir sürümü kullanıyorsanız:** Bu sürüm yeni bir imza anahtarıyla yayınlandı. Kurmadan önce eski uygulamayı bir kez kaldırın. Sonraki güncellemeler kaldırma gerektirmez.
 
 ### 🚀 Kullanım
 
-- **Paylaşarak (önerilen):** YouTube, Instagram, TikTok vb. uygulamada **Paylaş** menüsünü açın → **Excalibur-Down**'ı seçin → kaliteyi seçin.
+- **Paylaşarak (önerilen):** YouTube, Instagram, TikTok vb. uygulamada **Paylaş** menüsünü açın → **Excalibur-Down+**'ı seçin → kaliteyi seçin.
 - **Bağlantı yapıştırarak:** Uygulamayı açın → **Yapıştır** → **Videoyu Çözümle** → kaliteyi seçin.
 - **Instagram hikayeleri:** Ana ekranda **Instagram Story İndir**'e dokunun ve bir kez giriş yapın. Giriş ekranında **"Log in"** bağlantısına dokunun.
 
@@ -79,7 +79,7 @@ Excalibur-Down; YouTube, Instagram, TikTok, X (Twitter), Reddit ve Facebook'taki
 <details>
 <summary><b>Uygulama neden Google Play'de yok?</b></summary>
 
-Google Play, bu türdeki indirme uygulamalarına izin vermiyor. Excalibur-Down yalnızca bu sayfadan dağıtılır. Başka sitelerdeki kopyalara güvenmeyin.
+Excalibur-Down+'ın YouTube ve Instagram hikaye özellikleri Google Play kurallarına uymadığı için bu tam sürüm yalnızca bu sayfadan dağıtılır. Başka sitelerdeki kopyalara güvenmeyin.
 </details>
 
 <details>
@@ -104,13 +104,13 @@ Uygulama günde en fazla bir kez **anonim** bir kullanım sinyali gönderir: uyg
 
 ### ⚖️ Yasal uyarı
 
-Excalibur-Down yalnızca kişisel kullanım içindir. Yalnızca indirme hakkına sahip olduğunuz içerikleri indirin ve ilgili platformların kullanım koşullarına uyun. Excalibur-Down; YouTube, Instagram, TikTok, X, Reddit veya Facebook ile bağlantılı değildir ve bu şirketler tarafından onaylanmamıştır.
+Excalibur-Down+ yalnızca kişisel kullanım içindir. Yalnızca indirme hakkına sahip olduğunuz içerikleri indirin ve ilgili platformların kullanım koşullarına uyun. Excalibur-Down+; YouTube, Instagram, TikTok, X, Reddit veya Facebook ile bağlantılı değildir ve bu şirketler tarafından onaylanmamıştır.
 
 ---
 
 ## 🇬🇧 English
 
-Excalibur-Down is the quickest way to save videos, photos and GIFs from YouTube, Instagram, TikTok, X (Twitter), Reddit and Facebook to your phone. You don't even need to open it: tap **Share → Excalibur-Down** in any app, pick a quality, and the download starts.
+Excalibur-Down+ is the quickest way to save videos, photos and GIFs from YouTube, Instagram, TikTok, X (Twitter), Reddit and Facebook to your phone. You don't even need to open it: tap **Share → Excalibur-Down+** in any app, pick a quality, and the download starts.
 
 <p align="center">
   <img src="assets/en_main.png" width="270" alt="Home screen"/>
@@ -145,15 +145,15 @@ Excalibur-Down is the quickest way to save videos, photos and GIFs from YouTube,
 
 ### 📲 Install
 
-1. Tap **[Download APK](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down.apk)** on this page.
-2. Open the downloaded `Excalibur-Down.apk`.
+1. Tap **[Download APK](https://github.com/uumitaydinn/excalibur-down/releases/latest/download/Excalibur-Down-Plus.apk)** on this page.
+2. Open the downloaded `Excalibur-Down-Plus.apk`.
 3. If Android asks, turn on **"Allow from this source"**, then tap **Install**.
 
 > **Coming from a version older than 1.1.0?** This release is signed with a new key. Uninstall the old app once before installing. Later updates won't need this.
 
 ### 🚀 How to use
 
-- **Share (recommended):** In YouTube, Instagram, TikTok, etc. open the **Share** menu → choose **Excalibur-Down** → pick a quality.
+- **Share (recommended):** In YouTube, Instagram, TikTok, etc. open the **Share** menu → choose **Excalibur-Down+** → pick a quality.
 - **Paste a link:** Open the app → **Paste** → **Analyze Video** → pick a quality.
 - **Instagram stories:** Tap **Download Instagram Stories** on the home screen and sign in once. On the sign-in screen, tap the **"Log in"** link.
 
@@ -164,7 +164,7 @@ Progress is shown in a notification; tap it when finished to open the file.
 <details>
 <summary><b>Why isn't it on Google Play?</b></summary>
 
-Google Play doesn't allow downloader apps of this kind. Excalibur-Down is distributed only from this page. Don't trust copies on other sites.
+Because its YouTube and Instagram story features don't fit Google Play's rules, this full version, Excalibur-Down+, is distributed only from this page. Don't trust copies on other sites.
 </details>
 
 <details>
@@ -189,4 +189,4 @@ At most once a day the app sends an **anonymous** usage signal: the app name, it
 
 ### ⚖️ Disclaimer
 
-Excalibur-Down is for personal use only. Download only content you have the right to download, and follow each platform's terms of service. Excalibur-Down is not affiliated with or endorsed by YouTube, Instagram, TikTok, X, Reddit or Facebook.
+Excalibur-Down+ is for personal use only. Download only content you have the right to download, and follow each platform's terms of service. Excalibur-Down+ is not affiliated with or endorsed by YouTube, Instagram, TikTok, X, Reddit or Facebook.
